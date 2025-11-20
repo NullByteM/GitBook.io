@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Writeups](README.md)
+* [NullByteM](README.md)
 
 ## TryHackMe
 
