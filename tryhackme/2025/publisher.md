@@ -4,7 +4,7 @@ description: Test your enumeration skills on this boot-to-root machine.
 
 # Publisher
 
-[https://tryhackme.com/room/publisher](https://tryhackme.com/room/publisher)
+{% embed url="https://tryhackme.com/room/publisher" %}
 
 ## Recon
 
