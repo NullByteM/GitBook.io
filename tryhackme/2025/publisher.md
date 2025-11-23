@@ -77,6 +77,8 @@ Now we can connect to think user using SSH.
 ssh -i id_rsa think@publisher.thm
 ```
 
+## Root Shell
+
 ```
 find / -type f -perm -u=s 2> /dev/null | xargs ls -lah
 ```
